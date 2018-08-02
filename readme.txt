@@ -1,1 +1,2 @@
 hello git
+默认密钥文件名是id_rsa，公钥文件就是名是id_rsa.pub
